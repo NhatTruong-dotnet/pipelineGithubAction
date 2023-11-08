@@ -5,25 +5,13 @@
   <Workflows />
   <FieldSecurityProfiles />
   <Templates />
-  <EntityImageConfigs>
-    <EntityImageConfig>
-      <parententitylogicalname>dev_videoemployees</parententitylogicalname>
-      <primaryimageattribute>cr675_face</primaryimageattribute>
-    </EntityImageConfig>
-  </EntityImageConfigs>
-  <AttributeImageConfigs>
-    <AttributeImageConfig>
-      <attributelogicalname>cr675_face</attributelogicalname>
-      <parententitylogicalname>dev_videoemployees</parententitylogicalname>
-      <canstorefullimage>1</canstorefullimage>
-    </AttributeImageConfig>
-  </AttributeImageConfigs>
   <EntityMaps />
   <EntityRelationships />
   <OrganizationSettings />
   <optionsets />
   <CustomControls />
   <EntityDataProviders />
+  <CanvasApps />
   <Languages>
     <Language>1033</Language>
   </Languages>

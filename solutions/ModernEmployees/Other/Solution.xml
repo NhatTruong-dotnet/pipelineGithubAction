@@ -80,21 +80,8 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="1" schemaName="dev_videoemployees" behavior="0" />
+      <RootComponent type="300" schemaName="dev_test_16b40" behavior="0" />
     </RootComponents>
-    <MissingDependencies>
-      <MissingDependency>
-        <Required type="1" schemaName="cr675_videodepartment" displayName="Video Department" solution="Active" />
-        <Dependent type="10" schemaName="cr675_dev_videoemployees_Department_cr675_video" displayName="cr675_dev_videoemployees_Department_cr675_video" parentSchemaName="cr675_videodepartment" parentDisplayName="Video Department" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required type="2" schemaName="cr675_deptname" displayName="Dept Name" parentSchemaName="cr675_videodepartment" parentDisplayName="Video Department" solution="Active" />
-        <Dependent type="10" schemaName="cr675_dev_videoemployees_Department_cr675_video" displayName="cr675_dev_videoemployees_Department_cr675_video" parentSchemaName="cr675_videodepartment" parentDisplayName="Video Department" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required type="2" schemaName="cr675_videodepartmentid" displayName="Video Department" parentSchemaName="cr675_videodepartment" parentDisplayName="Video Department" solution="Active" />
-        <Dependent type="10" schemaName="cr675_dev_videoemployees_Department_cr675_video" displayName="cr675_dev_videoemployees_Department_cr675_video" parentSchemaName="cr675_videodepartment" parentDisplayName="Video Department" />
-      </MissingDependency>
-    </MissingDependencies>
+    <MissingDependencies />
   </SolutionManifest>
 </ImportExportXml>
